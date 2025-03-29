@@ -1,3 +1,43 @@
+Hiatus:
+------
+
+29 March 2025: I had hoped to be finished with this in February and
+   it's almost April. I am putting this on hiatus so I can work
+   through another text.
+
+1. Updates for Racket lag, but they really boil down to changing the
+   reference to SRFI-78 and adding #lang simply_scheme. 
+
+2. I +may+ want to try this in scheme48, or at least do enough to
+   determine if this could be done in scheme48.
+
+3. Consistency in using SRFI-78 'check' could be better.
+
+4. Problems 20.8 and 20.9 involve fleshing out the tic-tac-toe
+   program. I haven't done that yet and I'm not really motivated to
+   get it done.
+
+5. Problem 23.15 (n-dimensional matrix via vectors) isn't done yet.
+   The two-dimensional matrix in 23.14 is done.
+
+6. Chapters 24 and 25 involve a spreadsheet program. I've done a bit
+   more than half of the assignments. Enough to convince myself I know
+   what's going on.
+
+7. Chapter 26 proposs a project to create a database program. It
+   reminds me of DB IV. Some types are provided but the program has to
+   be started from scratch. As I have some other project sized work
+   that I plan to use Scheme with, and I have history supporting
+   databae internals in the 80s and 90s, I'm comfortable leaving
+   undone. I wouldn't mind doing it, but I've spent more time in this
+   text than I alotted.
+
+If anyone is still looking at the text, feel free to have at what's
+done here. If you spot an error, have something to contribute, or have
+a question, drop an issue on Github.
+
+Happy Schemes!
+
                           ============================
                            Working Through the Text:
                                  Simply Scheme:
@@ -132,25 +172,6 @@ number designations.
 There is some copy/paste reuse of procedures from earlier chapters. A
 common load file or module is a better solution but would not be in
 the spirit of the text or my work through.
-
-
-Notes and To Do:
----------------
-
-1. Updates for Racket lag, but they really boil down to changing the
-   reference to SRFI-78 and adding #lang simply_scheme. 
-
-2. I may try this in scheme48, or at least do enough to determine if
-   this could be done in scheme48.
-
-3. Consistency in using SRFI-78 'check' could be better.
-
-4. Problems 20.8 and 20.9 involve fleshing out the tic-tac-toe
-   program. I haven't done that yet and I'm not really motivated to
-   get it done.
-
-5. Problem 23.15 (n-dimensional matrix via vectors) isn't done yet.
-   The two-dimensional matrix in 23.14 is done.
 
 
 Licensing:
