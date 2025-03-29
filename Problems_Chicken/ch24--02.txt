@@ -1,4 +1,3 @@
-(put "24.2 tax and tip" a30)
 (put "      meal" a1)
 (put "       tax" b1)
 (put "       tip" c1)

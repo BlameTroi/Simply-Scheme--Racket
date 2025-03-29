@@ -1,9 +1,6 @@
-(put "24.3 Pascal's Triangle" z30)
 (put 1.00 a)
 (put 1.00 1)
 (put (+ (cell <1 <0) (cell <0 <1)) 2)
 (put (+ (cell <1 <0) (cell <0 <1)) 3)
 (put (+ (cell <1 <0) (cell <0 <1)) 4)
 (put (+ (cell <1 <0) (cell <0 <1)) 5)
-(put "and so on" z30)
-
